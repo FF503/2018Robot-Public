@@ -1,0 +1,4 @@
+Low gear:
+Vel: 125
+Accel: 400
+Jerk: 10000

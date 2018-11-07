@@ -1,0 +1,9 @@
+Low gear:
+Vel: 120
+Accel: 300
+Jerk: 5000
+
+High gear:
+Vel: 225
+Accel:250
+Jerk: 5000
